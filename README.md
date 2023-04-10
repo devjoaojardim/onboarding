@@ -6,10 +6,8 @@ Este projeto é um exemplo de como criar um processo de onboardbing personalizad
 
 ## Funcionalidades
 Páginas personalizadas de onboardbing com textos, imagens e animações.
-Botão de próximo e voltar para navegar entre as páginas.
 Botão de pular para permitir que o usuário pule o onboardbing.
-Armazenamento do estado do onboardbing para que o usuário não precise passar por ele novamente.
-implementation "androidx.compose.material:material-icons-extended:$compose_version
+
 
 ## Tecnologias utilizadas
 
