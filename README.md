@@ -17,7 +17,7 @@ Flutter (Dart)
 
 ## Instalação e configuração
 
-Basta copia a classe onboarding.dart do projeto e colar no seu, e fazer as condigurações necessárias
+Basta copia a classe onboarding.dart do projeto e colar no seu projeto e fazer as condigurações necessárias
 
 ## Personalização
 
