@@ -1,16 +1,33 @@
-# onboarding
+# Onboarding em Flutter Personalizado
 
-A new Flutter project.
+## Descrição
 
-## Getting Started
+Este projeto é um exemplo de como criar um processo de onboardbing personalizado em um aplicativo Flutter. Onboarding é uma técnica utilizada para apresentar novos usuários ao aplicativo e mostrar as principais funcionalidades de forma clara e concisa.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
+Páginas personalizadas de onboardbing com textos, imagens e animações.
+Botão de próximo e voltar para navegar entre as páginas.
+Botão de pular para permitir que o usuário pule o onboardbing.
+Armazenamento do estado do onboardbing para que o usuário não precise passar por ele novamente.
+implementation "androidx.compose.material:material-icons-extended:$compose_version
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter (Dart)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalação e configuração
+
+Para executar o projeto, basta clonar o repositório, instalar as dependências e executar o aplicativo:
+
+git clone https://github.com/devjoaojardim/onboarding.git
+cd nome-do-repositorio
+flutter pub get
+flutter run
+
+## Personalização
+
+Para personalizar o onboardbing, basta editar as páginas existentes ou adicionar novas páginas. É possível utilizar qualquer widget do Flutter para criar as páginas, como Text, Image, Container, ListView, etc. Além disso, é possível adicionar animações e transições entre as páginas para tornar o onboardbing mais dinâmico e atraente.
+
+
+### Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
