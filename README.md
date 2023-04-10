@@ -17,12 +17,7 @@ Flutter (Dart)
 
 ## Instalação e configuração
 
-Para executar o projeto, basta clonar o repositório, instalar as dependências e executar o aplicativo:
-
-git clone https://github.com/devjoaojardim/onboarding.git
-cd nome-do-repositorio
-flutter pub get
-flutter run
+Basta copia a class onboarding.dart do projeto e colar no seu, e fazer as condigurações necessárias
 
 ## Personalização
 
